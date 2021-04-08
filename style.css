@@ -2,7 +2,7 @@
     font-family: 'Montserrat', sans-serif;
     line-height: 20px;
     color: rgb(78, 77, 77);
-    letter-spacing: 0.5px;
+    /*letter-spacing: 0.5px;*/
 }
 
 body {
@@ -49,13 +49,13 @@ h3 {
 }
 
 .card {
-    padding: 10px 20px 10px 20px;
-    font-weight: 700;
+   
+    font-weight: 400;
     color: rgba(16, 164, 250, 0.5);
- }
+  
+}
 
 .responsibility {
-    
     padding: 20px;
     clear: both;
 }
@@ -63,4 +63,15 @@ h3 {
 .image-padding {
     padding-left: 50%;
     padding-right: 100%;
+}
+
+.parta {
+    width: 50%;
+    float: left;
+    
+}
+
+.partb {
+      width: 50%;
+    float: right;
 }
