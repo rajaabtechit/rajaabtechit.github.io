@@ -1,0 +1,28 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 20px;
+    color: rgb(78, 77, 77);
+    letter-spacing: 0.5px;
+}
+body{
+    background-color: rgb(233, 245, 250);
+}
+h1{
+color: rgb(78, 77, 77);
+font-size: 3.5em;
+letter-spacing: 2px;
+}
+.me{
+   color: rgb(7, 143, 167); 
+}
+.header-padding{
+    padding-top: 5em;
+}
+.image-padding{
+      padding-left: 50%;
+      padding-right: 100%;
+}
+p{
+    letter-spacing: 0em;
+    padding-right: 50%;
+}
